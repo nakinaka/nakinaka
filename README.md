@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://media.discordapp.net/attachments/887855985731960854/1070189185429930034/Lappland.gif" align="center" alt="Kwitty" />
- <h2 align="center">Viols</h2>
+ <h2 align="center"> </h2>
  <p align="center"></p>
 </p>
 
